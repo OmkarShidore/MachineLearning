@@ -2,7 +2,7 @@
 Binary Classification using Naive Bayes
 
 ## About 
-* trying to use Naive Bayes to create a model that directly predicts weather a customer is going to purchase a product or not based on the age and estimated saraly.
+* trying to use Naive Bayes to create a model that directly predicts weather a customer is going to purchase a product or not based on the gender, age and estimated saraly.
 
 ## Columns in dataset
 * User ID: Digitally generated User Id
